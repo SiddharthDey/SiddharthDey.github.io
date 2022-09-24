@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {url: "https://siddharthdey.github.io/siddharthdeyCV.pdf", title: "Resume"}
+  - {url: "https://siddharthdey.github.io/siddharthdeyCV.pdf", title: "CV"}
   - {file: "projects.md", title: "Projects"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
