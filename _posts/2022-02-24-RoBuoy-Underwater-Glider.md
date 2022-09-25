@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Toyota Computer Vision Internship
+title: RoBuoy Underwater Glider
 ---
 
 <!-- ![stairs_photo](/assets/stairs_1.jpg) <br /> <br /> -->
