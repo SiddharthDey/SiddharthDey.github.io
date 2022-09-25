@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Autonomous Staircase Climbing bot
+title: Toyota Computer Vision Internship
 ---
 
 <!-- ![stairs_photo](/assets/stairs_1.jpg) <br /> <br /> -->
