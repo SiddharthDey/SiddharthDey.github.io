@@ -8,7 +8,7 @@ title: Avishkar Hyperloop
 <!-- ![mapping_photo](/assets/top_map_2.png) <br /> <br /> -->
 
 {% include embed.html url="https://user-images.githubusercontent.com/52491801/192135656-c343d92a-d60f-49c3-b8d7-7af34ca82a9a.mp4" %}
-{% include embed.html url="https://www.youtube.com/watch?v=jOQQWTGO518" %}
+{% include embed.html url="https://www.youtube.com/embed?v=jOQQWTGO518" %}
 
 
 
