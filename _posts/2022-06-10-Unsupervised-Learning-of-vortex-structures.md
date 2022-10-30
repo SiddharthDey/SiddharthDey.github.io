@@ -4,6 +4,7 @@ title: Unsupervised Learning of vortex structures
 ---
 
 
+
 DMD mode of a Ventilated Jet Flow
 ![IPM1_photo](/assets/BTP_img_2.png) <br /> <br />
 
