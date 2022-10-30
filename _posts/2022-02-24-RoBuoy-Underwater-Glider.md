@@ -5,7 +5,9 @@ title: RoBuoy Underwater Glider
 
 Publication: [Towards Mission-Specific Characterization of the Diving Performance of an Underwater Glider](https://ieeexplore.ieee.org/document/9775285)
 
-Underwater Glider CAD
+
+Underwater Glider CAD model
+
 ![stairs_photo](/assets/3dCAD.png) <br /> <br />
 
 Simulink Glider Trajectory Simulation
