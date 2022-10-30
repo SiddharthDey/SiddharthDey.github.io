@@ -4,6 +4,6 @@ title: Proper Orthogonal Decomposition (POD) and Dynamic Mode Decomposition (DMD
 ---
 
 
-![IPM1_photo](/assets/BTP_img_1.png) <br /> <br />
+![IPM1_photo](/assets/BTP_img_2.png) <br /> <br />
 
 <object data="../assets/SiddharthDey_BTP.pdf" width="1000" height="1000" type='application/pdf'></object>
