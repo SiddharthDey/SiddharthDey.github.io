@@ -3,11 +3,11 @@ layout: page
 title: Avishkar Hyperloop
 ---
 
-Avishkar Team
+Avishkar 4.0 Team
 
 ![IPM1_photo](/assets/team_pic.png) <br /> <br />
 
-Hyperloop Pod side view
+Pod 4.0 side view
 
 ![IPM2_photo](/assets/pod_pic.png) <br /> <br />
 <!-- ![mapping_photo](/assets/top_map_2.png) <br /> <br /> -->
