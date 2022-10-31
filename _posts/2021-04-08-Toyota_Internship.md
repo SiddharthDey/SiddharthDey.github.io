@@ -5,7 +5,7 @@ title: Toyota Computer Vision Internship
 
 Top View generated from front view using Inverse Perspective Mapping (IPM)
 
-![IPM_photo](/assets/IPM_comb.jpg) <br /> <br />
+![IPM_photo](/assets/IPM_comb_2.jpg) <br /> <br />
 
 Top View coordinates generated from front view 2d bounding boxes points using a CNN Encoder model
 
