@@ -5,9 +5,13 @@ title: Unsupervised Learning of vortex structures
 
 
 
-DMD mode of a Ventilated Jet Flow
+Original Channel FLow simulated using OpenFOAM:
 
-![IPM1_photo](/assets/BTP_img_2.png) <br /> <br />
+![IPM1_photo](/assets/mean_flow.jpeg) <br /> <br />
+
+The first 4 extracted POD modes:
+
+![IPM1_photo](/assets/POD_modes.jpeg) <br /> <br />
 
 
 My B.Tech thesis:
