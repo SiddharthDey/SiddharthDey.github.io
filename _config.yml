@@ -19,8 +19,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "https://siddharthdey.github.io/siddharthdeyCV.pdf", title: "CV"}
   - {url: "https://siddharthdey.github.io/siddharthdeyResume.pdf", title: "Resume"}
   - {file: "projects.md", title: "Projects"}
-  - {url: "https://awesome-mandolin-bca.notion.site/Blogs-ac190820f33a416d93068a7fedfd8376", title: "Learning"}
-
+  - {url: "https://awesome-mandolin-bca.notion.site/Helper-Tutorials-ac190820f33a416d93068a7fedfd8376", title: "Learning"}
+  
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:sidey@ucsd.edu"}
   - {title: Github, icon: github, url: "https://github.com/SiddharthDey"}
