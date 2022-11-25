@@ -25,7 +25,6 @@ Media coverage
 Levitation Work Poster:
 <object data="../assets/Lev_Research_Poster_Final_Draft.pdf" width="900" height="1000" type='application/pdf'></object>
 
-![Poster Photo](/assets/Lev_Research_Poster_Final Draft_image.jpg) <br /> <br />
 
 
 
