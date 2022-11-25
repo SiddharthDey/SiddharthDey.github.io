@@ -22,6 +22,11 @@ Media coverage
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jOQQWTGO518" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
+Levitation Work Poster:
+<object data="../assets/Lev_Research_Poster_Final_Draft.pdf" width="900" height="1000" type='application/pdf'></object>
+
+![Poster Photo](/assets/Lev_Research_Poster_Final Draft_image.jpg) <br /> <br />
+
 
 
 
