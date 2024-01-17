@@ -6,7 +6,7 @@ title: Avishkar Hyperloop
 I was part of Avishkar Hyperloop, a student competition team targeting international competitions, which focuses on
 designing a scaled-down prototype of a hyperloop pod. In my third year of undergradute, I was the Mechanical Group Lead of Stability and Structures and our team had participated in the European Hyperloop Week (EHW), 2021 competition, where we won the "Most Scalable Design" award. Some of my work included:
 
-- implementing a semi-active suspension system for the pod using a magnetorheological damper
+- Implementing a semi-active suspension system for the pod using a magnetorheological damper
 
 - Designing an electromagnetic supension mechanism for levitation 
 

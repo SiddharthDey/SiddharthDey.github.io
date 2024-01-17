@@ -3,7 +3,7 @@ layout: page
 title: RoBuoy Underwater Glider
 ---
 
-Worked with Prof. T. Ashokan and Prof. T. Ranganathan at the Indian Institute of Technology Madras (IITM) on the design and development of an underwater glider for long-range oceanic exploration.
+Worked with [Prof. T. Ashokan](https://ed.iitm.ac.in/~asokan/) and [Prof. T. Ranganathan](https://scholar.google.co.in/citations?user=AMmJLh8AAAAJ&hl=en) at the Indian Institute of Technology Madras (IITM) on the design and development of an underwater glider for long-range oceanic exploration.
 
 - Designed an underwater glider with a diving depth of up to 50 meters using metallic bellow and linear actuators
 

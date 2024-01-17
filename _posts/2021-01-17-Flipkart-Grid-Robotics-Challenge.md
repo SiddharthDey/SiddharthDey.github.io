@@ -4,7 +4,7 @@ title: Autonomous Staircase Climbing bot
 ---
 
 <!-- ![stairs_photo](/assets/stairs_1.jpg) <br /> <br /> -->
-Won the "Most Innovative Approach" award at the Flipkart Grid 2.0 in the national final out of 6000+ participants
+Won the "Most Innovative Approach" award at the Flipkart Grid 2.0 hackathon in the national final out of 6000+ participants
 
 - Designed a bot based on a lead-screw mechanism to robustly carry a payload of 3-5kgs
 

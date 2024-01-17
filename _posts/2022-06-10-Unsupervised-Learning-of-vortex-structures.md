@@ -3,7 +3,7 @@ layout: page
 title: Unsupervised Learning of vortex structures
 ---
 
-Worked with Prof. K. Anupindi on the application of unsupervised learning techniques to extract coherent structures from turbulent flows
+Worked with [Prof. K. Anupindi](https://home.iitm.ac.in/kanupindi/) on the application of unsupervised learning techniques to extract coherent structures from turbulent flows
 
 - Simulated the turbulent characteristics of a ventilated jet flow for varying inlet velocity ratios in OpenFoam
 

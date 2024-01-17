@@ -19,7 +19,7 @@ You can find the project report here [[Link](https://drive.google.com/file/d/1AY
 <!-- ![NYU_progrssing_denoising](/assets/progressive_denoising.png) <br /> <br /> -->
 ![NYU_progrssing_denoising](/assets/DGM_progressive_denoising.png) 
 <p style="text-align: center;">
-*Progressive denoising of the latent space conditioned on the RGB image to generate the depth map*
+Progressive denoising of the latent space conditioned on the RGB image to generate the depth map
 </p>
 
 

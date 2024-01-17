@@ -3,11 +3,11 @@ layout: page
 title: Particle Filter SLAM
 ---
 
-Used Particle Filter to perform SLAM for a LiDAR-equipped wheeled robot 
+Used Particle Filter to perform SLAM for a differential drive wheeled robot 
 
 - The data for the robot came from the sensors mounted on it, including a Hokuyo UTM-30LX LiDAR sensor and a Kinect RGB-D camera
 
-- The robot's trajectory (2D pose and angular orientation at each time stamp) and the static map in the form of an occupancy grid map were estimated using the particle filter algorithm
+- The robot's trajectory (2D pose and angular orientation at each time stamp) and the static map in the form of a 2D occupancy grid were estimated using the particle filter algorithm
 
 - RGB values from the camera were used to produce a 2D color/texture map of the floor surface based on the occupancy grid map generated previously
 
