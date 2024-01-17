@@ -16,8 +16,8 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {url: "https://siddharthdey.github.io/siddharthdeyCV.pdf", title: "CV"}
-  - {url: "https://siddharthdey.github.io/siddharthdeyResume.pdf", title: "Resume"}
+  - {url: "https://siddharthdey.github.io/SiddharthDey_CV.pdf", title: "CV"}
+  - {url: "https://siddharthdey.github.io/SiddharthDey_Resume.pdf", title: "Resume"}
   - {file: "projects.md", title: "Projects"}
   - {url: "https://awesome-mandolin-bca.notion.site/Helper-Tutorials-ac190820f33a416d93068a7fedfd8376", title: "Learning"}
   
