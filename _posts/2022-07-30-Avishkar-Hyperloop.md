@@ -29,7 +29,8 @@ designing a scaled-down prototype of a hyperloop pod. In my third year of underg
 
 ## Avishkar 4.0 Team
 
-![IPM1_photo](/assets/team_pic.png) <br /> <br />
+![IPM1_photo](/assets/team_pic.png) 
+<!-- <br /> <br /> -->
 
 
 
