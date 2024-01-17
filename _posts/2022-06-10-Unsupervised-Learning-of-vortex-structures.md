@@ -14,6 +14,7 @@ My B.Tech thesis can be download from this link [[Link]](https://drive.google.co
 ## Results
 
 ![IPM1_photo](/assets/mean_flow.jpeg)
+<br></br>
 Original Channel FLow simulated using OpenFOAM
 
 <!-- <p align="center">
@@ -28,7 +29,9 @@ Original Channel FLow simulated using OpenFOAM
 
 
 ![IPM1_photo](/assets/POD_modes.jpeg)
+<br></br>
 The first 4 extracted POD modes
+
 <!-- 
 <p style="text-align: center; font-style: italic;"> 
 The first 4 extracted POD modes
