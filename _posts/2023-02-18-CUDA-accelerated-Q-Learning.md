@@ -14,3 +14,6 @@ Implemented Q-Learning algorithm for a 2D grid world environment in CUDA
 - The computation involved with each agent was implemented in different threads to parallelize the Q learning process across multiple agents
 
 {% include embed.html url="https://drive.google.com/file/d/1OHNXCZzaJt5NszWSHgXbqBqCvd-dfAct/preview" %}
+<p style="text-align: center;">
+*Visualization of the Multi agent Q-Learning for grid navigation*
+</p>

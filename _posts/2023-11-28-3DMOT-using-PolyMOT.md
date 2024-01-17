@@ -9,4 +9,6 @@ title: 3DMOT using PolyMOT
 
 {% include embed.html url="https://drive.google.com/file/d/11df54NxNyjg7nP2FyCKBFk_GoIARP8_o/preview" %}
 
+<p style="text-align: center;">
 *Using PolyMOT for object tracking using AVL's UCSD campus dataset*
+</p>
