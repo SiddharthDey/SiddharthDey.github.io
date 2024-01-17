@@ -11,7 +11,7 @@ Used Particle Filter to perform SLAM for a differential drive wheeled robot
 
 - RGB values from the camera were used to produce a 2D color/texture map of the floor surface based on the occupancy grid map generated previously
 
-You can find the project report here [[Link]](https://drive.google.com/file/d/1AQXA0KcFs-B63mxKaA_FmfN-TuLewVeh/view?usp=sharing)
+You can find the project report here [[Link](https://drive.google.com/file/d/1AQXA0KcFs-B63mxKaA_FmfN-TuLewVeh/view?usp=sharing)]
 
 ## Visualization of trajectory and occupany map generation
 {% include embed.html url="https://drive.google.com/file/d/1eCCOQhDZHPj4QzMRr-wym41U68jymv10/preview" %}

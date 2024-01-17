@@ -9,7 +9,7 @@ Worked with [Prof. K. Anupindi](https://home.iitm.ac.in/kanupindi/) on the appli
 
 - Employed Reduced-Order Models including Proper Orthogonal and Dynamic Mode Decomposition on the velocity data points to examine the flow’s coherent structures and extract spatiotemporal information
 
-My B.Tech thesis can be download from this link [[Link]](https://drive.google.com/file/d/1ERDDqIiyXoyI8KDQYbazD4PtYc3OXXmC/view?usp=sharing)
+My B.Tech thesis can be download from this link [[Link](https://drive.google.com/file/d/1ERDDqIiyXoyI8KDQYbazD4PtYc3OXXmC/view?usp=sharing)]
 
 ## Results
 
