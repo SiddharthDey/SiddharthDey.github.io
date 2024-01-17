@@ -5,4 +5,7 @@ title: Depth Latent Diffusion
 
 Trained a conditional Latent-Diffusion Model for monocular depth estimation on the NYU dataset
 
-{% include embed.html url="https://drive.google.com/file/d/1OHNXCZzaJt5NszWSHgXbqBqCvd-dfAct/view?usp=sharing" %}
+Progressive denoising of the latent space conditioned on the RGB image to generate the depth map (The model was trained on the NYU dataset):
+
+![NYU_progrssing_denoising](/assets/progressive_denoising.png) <br /> <br />
+
