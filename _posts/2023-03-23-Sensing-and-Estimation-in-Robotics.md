@@ -1,11 +1,17 @@
 ---
 layout: page
-title: Paritcle Filter SLAM
+title: Particle Filter SLAM
 ---
 
-Used Particle Filter for a LiDAR-equipped wheeled robot to localize the robot in an unknown 2D environment and generate the occupancy grid map with RBG values obtained from the camera. 
+Used Particle Filter to perform SLAM for a LiDAR-equipped wheeled robot 
 
-You can find the project report here [Link](https://drive.google.com/file/d/1AQXA0KcFs-B63mxKaA_FmfN-TuLewVeh/view?usp=sharing)
+- The data for the robot came from the sensors mounted on it, including a Hokuyo UTM-30LX LiDAR sensor and a Kinect RGB-D camera
+
+- The robot's trajectory (2D pose and angular orientation at each time stamp) and the static map in the form of an occupancy grid map were estimated using the particle filter algorithm
+
+- RGB values from the camera were used to produce a 2D color/texture map of the floor surface based on the occupancy grid map generated previously
+
+You can find the project report here [[Link]](https://drive.google.com/file/d/1AQXA0KcFs-B63mxKaA_FmfN-TuLewVeh/view?usp=sharing)
 
 {% include embed.html url="https://drive.google.com/file/d/1eCCOQhDZHPj4QzMRr-wym41U68jymv10/preview" %}
 <!-- {% include embed.html url="https://drive.google.com/file/d/1eCCOQhDZHPj4QzMRr-wym41U68jymv10/view?usp=sharing" %} -->
