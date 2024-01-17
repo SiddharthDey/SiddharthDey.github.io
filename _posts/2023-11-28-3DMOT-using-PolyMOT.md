@@ -7,8 +7,9 @@ title: 3DMOT using PolyMOT
 
 - Exploring the combined application of motion prediction models such as PGPNet and HiVT, and Multi-Hypothesis Tracking (MHT) on the nuScenes dataset to enhance object tracking performance in high occlusion scenarios
 
+## PolyMOT tracking on AVL's UCSD campus dataset
 {% include embed.html url="https://drive.google.com/file/d/11df54NxNyjg7nP2FyCKBFk_GoIARP8_o/preview" %}
 
-<p style="text-align: center;">
-*Using PolyMOT for object tracking using AVL's UCSD campus dataset*
-</p>
+<!-- <p style="text-align: center; font-style: italic;"> 
+Using PolyMOT for object tracking using AVL's UCSD campus dataset
+</p> -->

@@ -25,8 +25,8 @@ You can find the project report here [[Link](https://drive.google.com/file/d/1AY
 
 <!-- <br /> <br/> -->
 ![NYU_progrssing_denoising](/assets/DGM_results_1.png) 
-<p style="text-align: center;">
-*Result comparison between the spatial rescaler and using DINOv2 for RBG conditioning*
+<p style="text-align: center; font-style: italic;"> 
+Result comparison between the spatial rescaler and using DINOv2 for RBG conditioning
 </p>
 
 

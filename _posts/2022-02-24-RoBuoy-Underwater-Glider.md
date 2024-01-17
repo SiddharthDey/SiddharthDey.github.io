@@ -14,10 +14,9 @@ Worked with Prof. T. Ashokan and Prof. T. Ranganathan at the Indian Institute of
 Publication: [Towards Mission-Specific Characterization of the Diving Performance of an Underwater Glider](https://ieeexplore.ieee.org/document/9775285)
 
 ![stairs_photo](/assets/3dCAD.png) 
-<p style="text-align: center;"> *Underwater Glider CAD model* </p>
-*Underwater Glider CAD model*
+<p style="text-align: center; font-style: italic;">  
+Underwater Glider CAD model
+</p>
 
-<br /> <br />
-
+## Simulink Glider Trajectory Simulation
 {% include embed.html url="https://user-images.githubusercontent.com/52491801/192129923-c96369e8-ce47-48f5-ae6c-60c31b95eb82.mp4" %}
-<p style="text-align: center;"> *Simulink Glider Trajectory Simulation* </p>
