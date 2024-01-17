@@ -3,6 +3,6 @@ layout: page
 title: CUDA accelerated Q-Learning
 ---
 
-Used Particle Filter for a LiDAR-equipped wheeled robot to localize the robot in an unknown 2D environment and generate the occupancy grid map with RBG values obtained from the camera.
+Implemented Q-Learning algorithm for a 2D grid world environment in CUDA C++ to find the optimal policy for the agent to reach the goal state from the start state by training multiple agents in parallel threads using CUDA
 
 {% include embed.html url="https://drive.google.com/file/d/1OHNXCZzaJt5NszWSHgXbqBqCvd-dfAct/view?usp=sharing" %}
