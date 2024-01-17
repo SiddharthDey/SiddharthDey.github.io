@@ -15,7 +15,7 @@ Trained a conditional Latent-Diffusion Model for monocular depth estimation on t
 
 You can find the project report here [[Link](https://drive.google.com/file/d/1AY2GY7jdtdnQ_bIc3K0ELCpPsG4NxzEH/view?usp=sharing)]
 
-
+## Results
 <!-- ![NYU_progrssing_denoising](/assets/progressive_denoising.png) <br /> <br /> -->
 ![NYU_progrssing_denoising](/assets/DGM_progressive_denoising.png) 
 <p style="text-align: center;">

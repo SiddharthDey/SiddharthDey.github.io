@@ -11,8 +11,16 @@ Worked with Prof. K. Anupindi on the application of unsupervised learning techni
 
 My B.Tech thesis can be download from this link [[Link]](https://drive.google.com/file/d/1ERDDqIiyXoyI8KDQYbazD4PtYc3OXXmC/view?usp=sharing)
 
+## Results
 
 ![IPM1_photo](/assets/mean_flow.jpeg)
+
+<!-- <p align="center">
+  <img src="/assets/mean_flow.jpeg" alt="IPM1_photo" />
+</p> -->
+  <!-- <img src="/assets/mean_flow.jpeg" alt="IPM1_photo"> -->
+  
+
 <p style="text-align: center; font-style: italic;"> 
 Original Channel FLow simulated using OpenFOAM
 </p>
@@ -20,7 +28,7 @@ Original Channel FLow simulated using OpenFOAM
 
 ![IPM1_photo](/assets/POD_modes.jpeg)
 <p style="text-align: center; font-style: italic;"> 
-The first 4 extracted POD modes:
+The first 4 extracted POD modes
 </p>
 
 
