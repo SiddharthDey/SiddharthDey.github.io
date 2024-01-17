@@ -1,0 +1,8 @@
+---
+layout: page
+title: CUDA accelerated Q-Learning
+---
+
+Used Particle Filter for a LiDAR-equipped wheeled robot to localize the robot in an unknown 2D environment and generate the occupancy grid map with RBG values obtained from the camera.
+
+{% include embed.html url="https://drive.google.com/file/d/1OHNXCZzaJt5NszWSHgXbqBqCvd-dfAct/view?usp=sharing" %}
